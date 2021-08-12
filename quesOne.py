@@ -1,5 +1,4 @@
 
-
 lst = []
 
 # for adding numbers of list use space between numbers. Input: 2 4 6 7 8 9
